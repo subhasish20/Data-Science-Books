@@ -16,7 +16,6 @@ Machine learning is a fascinating field, and there’s no shortage of resources 
 6. 🌐 **"Python Machine Learning"**
 7. 📘 **"Introduction to Statistical Learning (ISLR)"**
 
-**And many mores...........**
 
 ---
 
