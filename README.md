@@ -6,7 +6,7 @@ Welcome to the collection of awesome Data Science Books! 🤖 Whether you're a b
 
 Machine learning is a fascinating field, and there’s no shortage of resources to help you get started. Below, we've compiled a list of some of the most popular and widely recommended books on machine learning. 📘
 
-## 📜 Table of Contents
+## 📜 Book Examples
 
 1. 📘 **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"**
 2. 📖 **"Pattern Recognition and Machine Learning"**
@@ -14,6 +14,9 @@ Machine learning is a fascinating field, and there’s no shortage of resources 
 4. 📚 **"Deep Learning "**
 5. 🤖 **"The Hundred-Page Machine Learning Book"**
 6. 🌐 **"Python Machine Learning"**
+7. 📘 **"Introduction to Statistical Learning (ISLR)"**
+
+**And many mores...........**
 
 ---
 
